@@ -20,7 +20,7 @@ You can also change the port that the backend listens on by updating the ```port
 
 Run
 
-```node index.tsx```
+```node app.tsx```
 
 To activate the backend
 
